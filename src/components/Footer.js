@@ -32,14 +32,16 @@ const Footer = () => {
 
         <Flex className="footer-element-center" direction={"column"}>
           <text className="footer-title-center">SERVICES</text>
-          <text className="footer-content-center">Kaalb Technologies-Pvt-Ltd</text>
-          <text className="footer-content-center">Kaalb Technologies-Pvt-Ltd</text>
+          <text className="footer-content-center">DevOps</text>
+          <text className="footer-content-center">Cloud Native</text>
+          <text className="footer-content-center">Kubernetes</text>
+          <text className="footer-content-center">MultiCloud</text>
         </Flex>
 
         <Flex className="footer-element-left" direction={"column"}>
           <text className="footer-title-left">KAALB TECHNOLOGIES  PRIVATE LIMITED</text>
-          <text className="footer-content-left">connect@kubelancer.com,</text>
-          <text className="footer-content-left">+91-8043728358,</text>
+          <text className="footer-content-left">kaalbtechnology@gmail.com,</text>
+          <text className="footer-content-left">+91-9739681115,</text>
           <text className="footer-content-left">
             #198, CMH Road, 2nd Floor, Suite No.928,
           </text>
