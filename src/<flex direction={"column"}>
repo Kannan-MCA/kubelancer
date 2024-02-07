@@ -1,0 +1,18 @@
+<flex direction={"column"}>
+      <div className="deveops-image-container"></div>
+
+      <div className="deveops-content-container" direction={"column"}>
+        <div className="conent-title">
+          <text>DevOps as a Service</text>
+        </div>
+        <div className="conent-text">
+          <text>
+            We help development teams, product companies, and start-ups to focus
+            on innovation by taking care of their infrastructure and operational
+            needs. From maturity assessments, consulting, cloud migration,
+            tooling to organizational change, and ongoing optimization of
+            operations.
+          </text>
+        </div>
+      </div>
+    </flex>
