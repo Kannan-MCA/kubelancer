@@ -99,15 +99,13 @@ function App() {
             <text className="footer-title-left">
               KAALB TECHNOLOGIES  PRIVATE LIMITED
             </text>
-            <text className="footer-content-left">connect@kaalb.com,</text>
-            <text className="footer-content-left">+91-9739681115,</text>
+            
             <text className="footer-content-left">
-              #198, CMH Road, 2nd Floor, Suite No.928,
-            </text>
-            <text className="footer-content-left">Indiranagar, Bangalore,</text>
+            #48, Church St, Haridevpur, Shanthala Nagar,</text>
             <text className="footer-content-left">
-              Karnataka, India 560038.
+            Ashok Nagar,Bangalore, Karnataka, India 560001.
             </text>
+            <text className="footer-content-left">connect@kaalb.com, +91-9739681115,</text>
           </Flex>
           <Flex className="footer-element-social" direction={"row"}>
             <FontAwesomeIcon className="icon" icon={faEnvelope} size="2x" />

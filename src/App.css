@@ -6,6 +6,7 @@
   left: 0;
   top: 0;
   pointer-events: none;
+  margin-left: -110px;
 }
 
 .App-header {
@@ -42,8 +43,8 @@ code {
 }
 
 .menu:hover {
-  color: rgb(245, 166, 35);
-  text-decoration-color: rgb(245, 166, 35);
+  color: rgb(251, 219, 146);
+  text-decoration-color: rgb(251, 219, 146);
   text-decoration-line: underline;
   text-decoration-thickness: 3px;
   text-underline-offset: 10px;
@@ -65,7 +66,7 @@ code {
   /*background-image:url(../src/assets/63db788be537f_vector-left.png);*/
   color: #ffff;
   font-size: 16px;
-  padding-top: 5vh;
+  padding-top: 2vh;
 }
 
 .footer-title-right {
@@ -148,7 +149,7 @@ code {
 }
 
 .icon:hover {
-  color: rgb(245, 166, 35);
+  color: rgb(251, 219, 146);
 }
 
 .contact-button {
@@ -163,6 +164,6 @@ code {
 }
 
 .contact-button:hover {
-  background-color: rgb(245, 166, 35);
+  background-color: rgb(251, 219, 146);
   color: #FFFF;
 }

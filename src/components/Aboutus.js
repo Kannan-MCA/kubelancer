@@ -1,7 +1,7 @@
 import React from "react";
 import "./../assets/about.css";
 import { Flex } from "@chakra-ui/react";
-import missionimage from "./../assets/63df4ebe997f4_multicloud-1.png";
+
 const aboutp1 =
   "    'KAALB TECHNOLOGIES  PRIVATE LIMITED' company started as stated from the name appears to combine 'Kube' from Kubernetes and 'Lancer' from freelancer.";
 const aboutp2 =

@@ -63,7 +63,7 @@ const Footer = () => {
         alignItems="center"
         maxWidth="1024px"
         fontSize={10}
-        height={16}
+        height={18}
       >
         <p>KAALB TECHNOLOGIES  PRIVATE LIMITED • © 2023</p>
       </Flex>

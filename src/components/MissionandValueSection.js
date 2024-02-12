@@ -2,7 +2,6 @@ import React from "react";
 import FullScreenSection from "./FullScreenSection";
 import './../assets/mission.css';
 import { Flex } from "@chakra-ui/react";
-import missionimage from "./../assets/63df4ebe997f4_multicloud-1.png";
 const MissionandValueSection = () => (
 
    
@@ -26,7 +25,6 @@ const MissionandValueSection = () => (
    
 
    <Flex className="mission-image-container">
-   <img src={missionimage} className="mission-image"/>
    </Flex>
    </Flex>
    <Flex  className="misson-inner-container"/>
